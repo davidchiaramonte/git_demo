@@ -2,6 +2,8 @@ connection: "thelook"
 
 #change1
 
+#Hi david!
+
 # include all the views
 include: "*.view"
 
