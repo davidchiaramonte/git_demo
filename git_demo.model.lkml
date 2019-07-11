@@ -18,6 +18,10 @@ explore: connection_reg_r3 {}
 
 explore: derived_test_table_3_20190510 {}
 
+explore: my_awesome_explore {
+  from: events
+}
+
 explore: events {
   join: users {
     type: left_outer
